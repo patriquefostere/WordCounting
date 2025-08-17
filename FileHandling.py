@@ -1,6 +1,5 @@
 import os
 import re
-import regex
 
 def remove_non_alpha(input_string):
     """
