@@ -1,1 +1,2 @@
 I like the vocabulary of Jane Eyre so I wanted to go through and find the words that were least used. The problem now is that the list of all the words that occur exactly once is over 5000.
+TODO: cross reference against this https://github.com/first20hours/google-10000-english/blob/master/google-10000-english.txt - most common english words. Any words that are in this list (or close, somehow) can be ignored. 
